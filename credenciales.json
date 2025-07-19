@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "registro-staff-ag",
+  "private_key_id": "526cafbe8d83d8944e2f31dc9142467e1740a703",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvl5yHbQGwRv20\ncESJG/0WKB233d//MEqWclfnHxiVREgkF/rmX+RTDawDtU7DavPEYsEzodB3gJNy\nnVTIwpPF4SHhlFeFIXHzUre6KT6ze4ONIN1XIdelDz5hShzubB+V02Pgs0XPHQtP\new7ICLlq7/lFcGq07IOx5J5T3L1RKivbGBAfWL+HsK0Mp57OyIXb5NjX7A/dMgmc\n3RB38wR9johyIjpmt+AtW0nfeZTIP8d+lOPMWyb4wJTBVwI8kS5FpgsA5ruIvRlg\n4mb5kcu/DX8vefOzs7MxIdaEVjH7WCWkrG1lizAJXblMEO9Z1MIiiEBGCvrhU+gy\nKELElyfzAgMBAAECggEADoEaC2+8K3j5vP1nE+JNehaPOeBof9ZX2uyQCUXezHmq\n8dxPO9dg72FaO6Yu3uKHR0oXBnJP24cx5s5LMhgsh7RsjYso3ZThKkXDamu8w6uo\ntrAnyGpBu18yemvaTvF8fG5NOkLkudJ+3C5gjrJ1ynkPIKbEEbTVvgyR7YB23OzZ\nLGRdz84m6nemQG6jSeXu/vpeVxwHpiFNgr7oA09yHSSVpktwZqG8mT1gWtJ3CKa2\nX/IrWf2UhpLG03SK8zxGKKvhG9AnL6tFEPjqYpaBzgniABJN4bVgQrJeQTOfoHSr\nfW/ijotzLUStAZjz6iIKxWzAJIjW0hVQrq0naAAmtQKBgQDoiXhxN2bXQA5ZCXSC\n0mG+Q1gOi2bVSi2FwdGw4+4ceTpQfp8jxi4zR3OacFFQbA9vXOqS8yMEpgu3LxLe\nI2HSirRJ4qN3lv5cH3zviAtl4VMJJQsP5Qc+SD9CUr+oGEM41NmqaKwcFv0bDv6P\nCkLsRbW69ZdU6fhYjnL42glGNQKBgQDBTzvIm2KufJ5YdC3BVLQaPOjxGckHfpE9\nsyjwxPcmFGvrlbvBVnPpVbKlYDjxevZj4BjE75cdFyGotvgCiJZ0KF6l6vcbMH/5\ntAa0rssRHyrvw+kcaXBgkmkkfkv+zki7oEGbmWX1t/t0HVe5qOCZniO2jW6YX9Aj\n2BzA6YLahwKBgHkig9eWoMAo4lCHmGY96iUPN+P7wooBpk0zdmTLl9LFZBdinswo\nBRE5e4NMV0+puzCsGpaKigd16Ex4/T8y91aSYvDKW5WE1uRuksrE+AsOog71eRnC\nmU9cm3eVW7nZSctlNi6LcH0BjMB3wywIkGw8tDq8jSTy7ShUrJfuHT6xAoGBAL4O\nWqbnLuSCnWQ2BW5ZCyHo1NWHFoEJzV6uMQhXfu6vkVN0Sb7Scu/sU9IIgrPYwzp6\n759gOGBfh7ZK/hfvlozpy/SwyPawfoJQn28xk3FoBVzqbtyCRfyMtlcs3SbORfBC\npX6IGRi3JMCKwN9GzFv8gPxQnXWubgNvzQVWEFMtAoGAJVJNjKz05rr3dmokXh3h\ndBh91NDRem9tNuZYTRIe2a/VUhtwjvRKqdHnGoPiuo+2Z6GPwxUQZXNopKBKluG4\nM/egcGfmye9wYvdD2+rkvH1BgtXjRjfEXRzaI31DyAuhbPMhnrkVmTLyQOvaVCA9\nRbdxxHoebkbuy32uF16yFtk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "staff-ag@registro-staff-ag.iam.gserviceaccount.com",
+  "client_id": "109549409995866743544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/staff-ag%40registro-staff-ag.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
